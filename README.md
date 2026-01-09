@@ -1,4 +1,4 @@
-## Hi, I’m Chandan Sharma 👋
+## Hi, I’m Chandan kumar Sharma 👋
 
 I’m a Computer Science fresher building practical full-stack projects to strengthen my fundamentals in web development and backend engineering.
 
