@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-# Oopss
 # 💫 About Me:
 👨‍💻 I'm currently working on building full-stack web applications using React, Node.js, Express, and MongoDB, with a focus on clean UI and scalable backend architecture.<br><br>🤝 I'm looking to collaborate on real-world React or MERN projects where performance, state management, and API design actually matter.<br><br>🧠 I'm looking for help with advanced React patterns, backend optimization, and writing production-grade code.<br><br>📚 I'm currently learning system design basics, backend security (JWT, auth flows), and improving my problem-solving skills in JavaScript.<br><br>💬 Ask me about React, Redux Toolkit, REST APIs, JWT authentication, or structuring full-stack projects.<br><br>⚡ Fun fact: I don't collect certificates — I build projects that can survive real users.<br>
 
