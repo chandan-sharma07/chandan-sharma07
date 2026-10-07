@@ -40,7 +40,7 @@ Backend-only REST API for a mini e-commerce system.
 Responsive personal portfolio with my projects, skills and experience.
 
 - **Stack:** React, Vite, SCSS
-- [Source code](https://github.com/chandan-sharma07/developer-portfolio07)
+- [Live demo](https://devfolio07.netlify.app/) · [Source code](https://github.com/chandan-sharma07/developer-portfolio07)
 
 ### Apex Gurukul School Website
 Fully responsive 7-page school website with client-side routing and a category-filterable photo gallery.
